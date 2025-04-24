@@ -20,11 +20,11 @@ export default function FileIcon({ file }: FileIconProps) {
             path={file.path}
             transformation={[
               {
-                height: "48",
-                width: "48",
+                height: 48,
+                width: 48,
                 focus: "auto",
-                quality: "80",
-                dpr: "2",
+                quality: 80,
+                dpr: 2,
               },
             ]}
             loading="lazy"
