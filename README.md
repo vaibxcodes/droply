@@ -12,10 +12,10 @@ A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and 
 ## Tech Stack
 
 - **Frontend**: Next.js, HeroUI
-- **Authentication**: Clerk
+- **Authentication**: [Clerk](https://hitesh.ai/Clerk)
 - **Database**: Neon (PostgreSQL)
 - **ORM**: Drizzle
-- **File Storage**: ImageKit
+- **File Storage**: [ImageKit](https://hitesh.ai/imagekit)
 
 ## Getting Started
 
